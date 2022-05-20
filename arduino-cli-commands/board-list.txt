@@ -1,0 +1,4 @@
+Port  Protocol Type              Board Name  FQBN            Core       
+COM1  serial   Serial Port       Unknown                                
+COM16 serial   Serial Port (USB) Arduino Uno arduino:avr:uno arduino:avr
+

@@ -1,0 +1,1 @@
+"C:\Users\raphael\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17/bin/avrdude" "-CC:\Users\raphael\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17/etc/avrdude.conf" -v -V -patmega2560 -cwiring "-PCOM18" -b115200 -D "-Uflash:w:C:\Users\raphael\AppData\Local\Temp\arduino-sketch-4EA351689AD776F53417AAC508A85EE6/MySketchTest.ino.hex:i"

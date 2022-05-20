@@ -1,0 +1,5 @@
+ID              Installed Latest Name                  
+arduino:avr     1.8.5     1.8.5  Arduino AVR Boards    
+esp32:esp32     1.0.6     1.0.6  ESP32 Arduino         
+esp8266:esp8266 3.0.2     3.0.2  ESP8266 Boards (3.0.2)
+

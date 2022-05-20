@@ -1,0 +1,105 @@
+Name                     Installed Available Location              Description                          
+Adafruit_ADXL343         1.3.0     -         LIBRARY_LOCATION_USER -                                    
+Adafruit_BusIO           1.9.1     -         LIBRARY_LOCATION_USER -                                    
+Adafruit_Unified_Sensor  1.1.3     -         LIBRARY_LOCATION_USER -                                    
+Arduino-IRremote-master  3.4.0     -         LIBRARY_LOCATION_USER -                                    
+Arduino_BuiltIn          1.0.0     -         LIBRARY_LOCATION_USER -                                    
+ArduinoJson              5.13.5    6.19.4    LIBRARY_LOCATION_USER An efficient and elegant JSON library...
+ArduinoWebsockets-master 0.4.13    -         LIBRARY_LOCATION_USER -                                    
+AsyncTCP                 1.1.1     -         LIBRARY_LOCATION_USER -                                    
+ArduinoOTA               1.0       1.0.8     esp32:esp32@1.0.6     Enables Over The Air upgrades, via wi...
+AsyncUDP                 1.0.0     -         esp32:esp32@1.0.6     -                                    
+AzureIoT                 0.1.0     -         esp32:esp32@1.0.6     -                                    
+blynk-library-master     1.0.1     -         LIBRARY_LOCATION_USER -                                    
+cloud4rpi-esp-arduino    1.1.0     -         LIBRARY_LOCATION_USER -                                    
+DHT_sensor_library       1.4.2     -         LIBRARY_LOCATION_USER -                                    
+Downloads                          -         LIBRARY_LOCATION_USER -                                    
+ESP8266wifi-master                 -         LIBRARY_LOCATION_USER -                                    
+ESPAsyncTCP-master       1.2.2     -         LIBRARY_LOCATION_USER -                                    
+ESPAsyncWebServer        1.2.3     -         LIBRARY_LOCATION_USER -                                    
+espsoftwareserial        6.13.2    -         LIBRARY_LOCATION_USER -                                    
+Ethernet                 2.0.0     -         LIBRARY_LOCATION_USER -                                    
+Firmata                  2.5.8     -         LIBRARY_LOCATION_USER -                                    
+Keyboard                 1.0.3     1.0.4     LIBRARY_LOCATION_USER Allows an Arduino board with USB capa...
+LiquidCrystal            1.0.7     -         LIBRARY_LOCATION_USER -                                    
+Mouse                    1.0.1     -         LIBRARY_LOCATION_USER -                                    
+HTTPClient               1.2       -         esp32:esp32@1.0.6     -                                    
+HTTPUpdate               1.3       -         esp32:esp32@1.0.6     -                                    
+NetBIOS                  1.0       -         esp32:esp32@1.0.6     -                                    
+PubSubClient             2.8       -         LIBRARY_LOCATION_USER -                                    
+SD                       1.2.4     -         LIBRARY_LOCATION_USER -                                    
+BluetoothSerial          1.0       -         esp32:esp32@1.0.6     -                                    
+EEPROM                   2.0       -         arduino:avr@1.8.5     -                                    
+HID                      1.0       -         arduino:avr@1.8.5     -                                    
+SPI                      1.0       -         arduino:avr@1.8.5     -                                    
+BLE                      1.0.1     -         esp32:esp32@1.0.6     -                                    
+DNSServer                1.1.0     -         esp32:esp32@1.0.6     -                                    
+EEPROM                   1.0.3     -         esp32:esp32@1.0.6     -                                    
+ESP32                    1.0       -         esp32:esp32@1.0.6     -                                    
+ESPmDNS                  1.0       -         esp32:esp32@1.0.6     -                                    
+FFat                     1.0       -         esp32:esp32@1.0.6     -                                    
+FS                       1.0       -         esp32:esp32@1.0.6     -                                    
+HTTPUpdateServer         1.0       -         esp32:esp32@1.0.6     -                                    
+Preferences              1.0       -         esp32:esp32@1.0.6     -                                    
+SPIFFS                   2.0.0     -         LIBRARY_LOCATION_USER -                                    
+SD                       1.0.5     1.2.4     esp32:esp32@1.0.6     Enables reading and writing on SD car...
+SD_MMC                   1.0       -         esp32:esp32@1.0.6     -                                    
+ESP8266WiFiMesh          2.2       -         esp8266:esp8266@3.0.2 -                                    
+lwIP_enc28j60            1         -         esp8266:esp8266@3.0.2 -                                    
+Servo                    1.1.8     -         LIBRARY_LOCATION_USER -                                    
+SimpleBLE                1.0       -         esp32:esp32@1.0.6     -                                    
+SimpleTimer-master                 -         LIBRARY_LOCATION_USER -                                    
+Stepper                  1.1.3     -         LIBRARY_LOCATION_USER -                                    
+SoftwareSerial           1.0       -         arduino:avr@1.8.5     -                                    
+ "                       6.12.7    -         esp8266:esp8266@3.0.2 -                                    
+SPI                      1.0       -         esp32:esp32@1.0.6     -                                    
+SPIFFS                   1.0       -         esp32:esp32@1.0.6     -                                    
+WiFiClientSecure         1.0       -         esp32:esp32@1.0.6     -                                    
+ArduinoOTA               1.0       1.0.8     esp8266:esp8266@3.0.2 Enables Over The Air upgrades, via wi...
+DNSServer                1.1.1     -         esp8266:esp8266@3.0.2 -                                    
+EEPROM                   1.0       -         esp8266:esp8266@3.0.2 -                                    
+esp8266                  1.0       -         esp8266:esp8266@3.0.2 -                                    
+ESP8266AVRISP            1.0       -         esp8266:esp8266@3.0.2 -                                    
+ESP8266HTTPClient        1.2       -         esp8266:esp8266@3.0.2 -                                    
+ESP8266httpUpdate        1.3       -         esp8266:esp8266@3.0.2 -                                    
+ESP8266HTTPUpdateServer  1.0       -         esp8266:esp8266@3.0.2 -                                    
+ESP8266LLMNR             1.0       -         esp8266:esp8266@3.0.2 -                                    
+ESP8266mDNS              1.2       -         esp8266:esp8266@3.0.2 -                                    
+ESP8266NetBIOS           1.0       -         esp8266:esp8266@3.0.2 -                                    
+ESP8266SdFat             2.0.2     -         esp8266:esp8266@3.0.2 -                                    
+ESP8266SSDP              1.0       -         esp8266:esp8266@3.0.2 -                                    
+ESP8266WebServer         1.0       -         esp8266:esp8266@3.0.2 -                                    
+TinyGSM-master           0.11.5    -         LIBRARY_LOCATION_USER -                                    
+WebServer                2.0.0     -         LIBRARY_LOCATION_USER -                                    
+WiFi-master              1.2.7     -         LIBRARY_LOCATION_USER -                                    
+ESP8266WiFi              1.0       -         esp8266:esp8266@3.0.2 -                                    
+Ethernet                 2.0.0     -         esp8266:esp8266@3.0.2 -                                    
+GDBStub                  0.3       -         esp8266:esp8266@3.0.2 -                                    
+Hash                     1.0       -         esp8266:esp8266@3.0.2 -                                    
+WebServer                1.0       -         esp32:esp32@1.0.6     -                                    
+I2S                      1.0       -         esp8266:esp8266@3.0.2 -                                    
+TFT                      1.0.6     -         LIBRARY_LOCATION_USER -                                    
+TinyGPS-master           13.0.0    -         LIBRARY_LOCATION_USER -                                    
+lwIP_PPP                 1         -         esp8266:esp8266@3.0.2 -                                    
+TinyGPSPlus-master       1.0.2     -         LIBRARY_LOCATION_USER -                                    
+TinyGSM                  0.11.2    0.11.5    LIBRARY_LOCATION_USER A small Arduino library for GPRS modu...
+UbxGps-main              1.4.0     -         LIBRARY_LOCATION_USER -                                    
+Netdump                  2         -         esp8266:esp8266@3.0.2 -                                    
+Servo                    1.0.2     1.1.8     esp8266:esp8266@3.0.2 Allows Esp8266 boards to control a va...
+SPI                      1.0       -         esp8266:esp8266@3.0.2 -                                    
+Ticker                   1.1       4.4.0     esp32:esp32@1.0.6     Allows to call functions with a given...
+Update                   1.0       -         esp32:esp32@1.0.6     -                                    
+WiFi                     1.0       1.2.7     esp32:esp32@1.0.6     Enables network connection (local and...
+WiFiProv                 1.0       -         esp32:esp32@1.0.6     -                                    
+LittleFS                 0.1.0     -         esp8266:esp8266@3.0.2 -                                    
+lwIP_w5100               1         -         esp8266:esp8266@3.0.2 -                                    
+lwIP_w5500               1         -         esp8266:esp8266@3.0.2 -                                    
+SD                       2.0.0     -         esp8266:esp8266@3.0.2 -                                    
+SDFS                     0.1.0     -         esp8266:esp8266@3.0.2 -                                    
+SPISlave                 1.0       -         esp8266:esp8266@3.0.2 -                                    
+TFT_Touch_Shield_V2      2.0       -         esp8266:esp8266@3.0.2 -                                    
+Wire                     1.0       -         arduino:avr@1.8.5     -                                    
+ "                       1.0.1     -         esp32:esp32@1.0.6     -                                    
+Ticker                   1.0       4.4.0     esp8266:esp8266@3.0.2 Allows to call functions with a given...
+Wire                     1.0       -         esp8266:esp8266@3.0.2 -                                    
+

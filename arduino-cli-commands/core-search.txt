@@ -1,0 +1,24 @@
+ID                    Version   Name                                                                                 
+arduino:avr           1.8.5     Arduino AVR Boards                                                                   
+arduino:mbed_edge     3.1.1     Arduino Mbed OS Edge Boards                                                          
+arduino:mbed_nano     3.1.1     Arduino Mbed OS Nano Boards                                                          
+arduino:mbed_nicla    3.1.1     Arduino Mbed OS Nicla Boards                                                         
+arduino:mbed_portenta 3.1.1     Arduino Mbed OS Portenta Boards                                                      
+arduino:mbed_rp2040   3.1.1     Arduino Mbed OS RP2040 Boards                                                        
+arduino:megaavr       1.8.7     Arduino megaAVR Boards                                                               
+arduino:nrf52         1.0.2     Arduino nRF52 Boards                                                                 
+arduino:sam           1.6.12    Arduino SAM Boards (32-bits ARM Cortex-M3)                                           
+arduino:samd          1.8.13    Arduino SAMD Boards (32-bits ARM Cortex-M0+)                                         
+Arrow:samd            2.1.0     Arrow Boards                                                                         
+atmel-avr-xminis:avr  0.6.0     Atmel AVR Xplained-minis                                                             
+emoro:avr             3.2.2     EMORO 2560                                                                           
+esp32:esp32           1.0.6     ESP32 Arduino                                                                        
+esp8266:esp8266       3.0.2     ESP8266 Boards (3.0.2)                                                               
+industruino:samd      1.0.1     Industruino SAMD Boards (32-bits ARM Cortex-M0+)                                     
+Intel:arc32           2.0.5     Intel Curie Boards                                                                   
+Intel:i586            1.6.7+1.0 Intel i586 Boards                                                                    
+Intel:i686            1.6.7+1.0 Intel i686 Boards                                                                    
+littleBits:avr        1.0.0     littleBits Arduino AVR Modules                                                       
+Microsoft:win10       1.1.2     Windows 10 Iot Core                                                                  
+arduino:mbed          3.1.1     [DEPRECATED] [DEPRECATED - Please install standalone packages] Arduino Mbed OS Boards
+
